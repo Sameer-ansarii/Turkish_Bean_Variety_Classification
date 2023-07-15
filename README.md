@@ -26,5 +26,5 @@ Seven different types of dry beans were used in this project, taking into accoun
 | ShapeFactor1| (SF1)|
 |ShapeFactor2 |(SF2)|
 |ShapeFactor3| (SF3)|
-|ShapeFactor4 (SF4)|
+|ShapeFactor4| (SF4)|
 |Class| (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)|
